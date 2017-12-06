@@ -1,2 +1,2 @@
 # kotlinMvp
-* It's a MVP demo for Kotlin
+* It's a demo using MVP/RxJava/Retrofit for Kotlin
